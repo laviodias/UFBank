@@ -1,0 +1,2 @@
+export { MaquininhaForm } from './MaquininhaForm';
+

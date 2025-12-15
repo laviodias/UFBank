@@ -1,0 +1,2 @@
+export { CadastroTemplate } from './CadastroTemplate';
+
